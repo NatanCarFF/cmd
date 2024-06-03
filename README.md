@@ -17,4 +17,6 @@ cd %USERPROFILE%
 mkdir NomeDaPasta
 ## comando para lispar o cmd
 cls
+##  versão do git no cmd
+git --version
 ## 
