@@ -47,5 +47,8 @@ git --version
 ```
 docker login
 ```
-### 
+### mover arquivo cmd
+```
+move "caminho\para\arquivo\origem.extensao" "caminho\para\pasta\destino\"
+```
 
