@@ -51,4 +51,8 @@ docker login
 ```
 move "caminho\para\arquivo\origem.extensao" "caminho\para\pasta\destino\"
 ```
+### copiar arquivo via cmd
+```
+copy "caminho\para\arquivo\origem.extensao" "caminho\para\pasta\destino\"
+```
 
