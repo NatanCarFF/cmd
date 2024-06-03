@@ -19,4 +19,6 @@ mkdir NomeDaPasta
 cls
 ###  versão do git no cmd
 git --version
-## 
+### loguin dockerhub no cmd
+docker login
+
