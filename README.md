@@ -13,4 +13,8 @@ dir /ad C:\Caminho\Para\O\Seu\Diretório
 dir /ad /s
 ## caminho para o diretório de usuário no cmd
 cd %USERPROFILE%
+## criar pasta via cmd
+mkdir NomeDaPasta
+## comando para lispar o cmd
+cls
 ## 
