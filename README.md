@@ -55,4 +55,11 @@ move "caminho\para\arquivo\origem.extensao" "caminho\para\pasta\destino\"
 ```
 copy "caminho\para\arquivo\origem.extensao" "caminho\para\pasta\destino\"
 ```
-
+### construir a imagem com base no Dockerfile
+```
+docker build -t nome-da-imagem:tag .
+```
+###  iniciar um contêiner
+```
+docker run -d --name nome-do-container nome-da-imagem:tag
+```
