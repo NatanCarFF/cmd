@@ -63,3 +63,7 @@ docker build -t nome-da-imagem:tag .
 ```
 docker run -d --name nome-do-container nome-da-imagem:tag
 ```
+### executar container com bash
+```
+docker exec -it <container_id> bash
+```
